@@ -9,11 +9,11 @@ def _defGlobals():
     global the_credentials
     global the_table
 
-    the_user = 'fRancis'
-    the_password = '1fRancisPW$'
-    the_database = 'sentiment'
-    the_table = 'francis'
-    the_ip_address = '132.203.46.219'
+    the_user = ''
+    the_password = ''
+    the_database = ''
+    the_table = ''
+    the_ip_address = ''
     the_credentials = {
             'user': the_user,
             'password': the_password,
